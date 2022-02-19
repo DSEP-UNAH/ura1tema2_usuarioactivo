@@ -503,6 +503,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-repeat:no-repeat;
   background-position-x: 0px;
   text-align:justify;
+	 font-size: 16px;
+
 }
 @media (min-width: 1631px){
 		#intro {
@@ -622,6 +624,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url("../img/services-bg.jpg") fixed center center;
   background-size: cover;
   padding: 80px 0 60px 0;
+   font-size: 15px;	
 
 }
 .contenido p{
@@ -873,6 +876,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #creditos {
   background: #f6f6f6;
   padding: 80px 0;
+font-size: 17px;
 }
 
 #creditos .profile {
